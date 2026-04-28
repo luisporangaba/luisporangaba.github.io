@@ -8,17 +8,17 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://luisporangaba.com/about/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://luisporangaba.com/posts/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://luisporangaba.com/projects/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://luisporangaba.com/resume/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -10,21 +10,21 @@
     <atom:link href="https://luisporangaba.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>About Me</title>
-      <link>https://luisporangaba.com/about/</link>
+      <title>Projects</title>
+      <link>https://luisporangaba.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luisporangaba.com/about/</guid>
+      <guid>https://luisporangaba.com/projects/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Projects/Resume</title>
-      <link>https://luisporangaba.com/projects/</link>
+      <title>Resume</title>
+      <link>https://luisporangaba.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luisporangaba.com/projects/</guid>
+      <guid>https://luisporangaba.com/resume/</guid>
       <description></description>
       
     </item>
